@@ -1,3 +1,2 @@
-## I will share the domain 'imi.im' 
-
-## How to Use will be later here
+# Im IMI  = imi.im
+![](./about/assets/logo.jpg)
